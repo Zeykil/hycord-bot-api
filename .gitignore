@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+service-account.json
+hycord_cache.db
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
